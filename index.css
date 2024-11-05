@@ -1,0 +1,17 @@
+body{
+    color: #402243;
+    background-color: rgba(140, 0, 255, 0.281);
+    font-family: arial, helvetica, sans-serif;
+}
+
+ul{
+   display: flex;
+   justify-content: space-between;
+   list-style-type: none;
+   align-items: center;
+   padding: 16px;
+}  
+a {
+    color:rbgd(182, 194, 228, 0.324);
+    text-decoration: none;
+}
